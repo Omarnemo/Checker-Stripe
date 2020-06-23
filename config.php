@@ -6,7 +6,7 @@ return $config = Array(
 	'test-mode'  => true,
 
 	// Secret Key from Stripe.com Dashboard
-	'secret-key' => 'sk_live_SUA KEY',
+	'secret-key' => 'sk_test_BQokikJOvBiI2HlWgH4olfQ2',
 
 	// Publishable Key from Stripe.com Dashboard
 	'publishable-key' => 'pk_live_SUA KEY',
